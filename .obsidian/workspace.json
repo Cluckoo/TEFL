@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "62e8242bddb32388",
+    "type": "split",
+    "children": [
+      {
+        "id": "acdf5d0aa55d72a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aab042a093798c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-TEFL/Classroom activities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classroom activities"
+            }
+          },
+          {
+            "id": "f55e1976751c05b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of lessons (language skills).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of lessons (language skills)"
+            }
+          },
+          {
+            "id": "57af2af8ed260a09",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cd41c6b1b891c758",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d07fc21e154aa2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7dd6c3da54eed55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cebad3edc70b5db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cc071165bcc05ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18b7d276fe3621cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce63df4b28f7198d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04fdd3b79d968d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ec27a3168515db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f7f282b464205594",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a44289021cce10c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3cf42f5014e3328a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "eb5e70b2975ddfd5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9cebad3edc70b5db",
+  "lastOpenFiles": [
+    "remote-TEFL/Classroom interaction patterns.md",
+    "remote-TEFL",
+    "remote-TEFL/Differentiation.md",
+    "remote-TEFL/Pair and group work.md",
+    "remote-TEFL/Peer teaching.md",
+    "remote-TEFL/One-to-one lessons.md",
+    "remote-TEFL/Classroom activities.md",
+    "remote-TEFL/Types of lessons (language skills).md",
+    "remote-TEFL/ESA.md",
+    "remote-TEFL/Monolingual vs multilingual classes.md",
+    "remote-TEFL/Feedback.md",
+    "Images",
+    "Images/Pasted image 20250805152113.png",
+    "remote-TEFL/Grammar, pronunciation and vocabulary lessons.md",
+    "remote-TEFL/Phrasal verbs.md",
+    "remote-TEFL/Reading and listening lessons.md",
+    "remote-TEFL/Writing lessons.md",
+    "remote-TEFL/Fluency vs accuracy.md",
+    "remote-TEFL/Speaking lessons.md",
+    "remote-TEFL/TTT.md",
+    "remote-TEFL/PPP.md",
+    "remote-TEFL/Lesson structures.md",
+    "remote-TEFL/Paralinguistic features.md",
+    "remote-TEFL/Welcome.md",
+    "remote-TEFL/Language components vs skills.md",
+    "remote-TEFL/Icebreakers.md",
+    "remote-TEFL/What makes a good teacher.md",
+    "remote-TEFL/Different reasons for learning English.md"
+  ]
+}
