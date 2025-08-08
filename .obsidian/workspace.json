@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing lessons.md",
+                "file": "Permanent notes/Writing lessons.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of lessons (language skills).md",
+                "file": "Permanent notes/Types of lessons (language skills).md",
                 "mode": "source",
                 "source": false
               },
@@ -46,18 +46,91 @@
             }
           },
           {
-            "id": "cd41c6b1b891c758",
+            "id": "3b4e535eb90367af",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Permanent notes/Using lesson template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Using lesson template"
+            }
+          },
+          {
+            "id": "17d1309f1034cc6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Lessons aims and objectives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lessons aims and objectives"
+            }
+          },
+          {
+            "id": "8e3a2d45b460ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Lesson stages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson stages"
+            }
+          },
+          {
+            "id": "de678517eb385186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Managing timings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Managing timings"
+            }
+          },
+          {
+            "id": "037faac128c8f8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/CEFR levels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CEFR levels"
+            }
+          },
+          {
+            "id": "1d01d5f7fa06bbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Lesson structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson structures"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,30 +249,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Permanent notes/Managing timings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "eb5e70b2975ddfd5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Managing timings"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,35 +277,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cebad3edc70b5db",
+  "active": "de678517eb385186",
   "lastOpenFiles": [
-    "Classroom activities.md",
-    "Feedback.md",
-    "Classroom interaction patterns.md",
-    "remote-TEFL",
-    "Differentiation.md",
-    "Pair and group work.md",
-    "Peer teaching.md",
-    "One-to-one lessons.md",
-    "Types of lessons (language skills).md",
-    "ESA.md",
-    "Monolingual vs multilingual classes.md",
-    "Images",
+    "Permanent notes/Attention span.md",
+    "Permanent notes/Managing timings.md",
+    "Permanent notes/Lesson structures.md",
+    "Permanent notes/Lesson stages.md",
+    "Permanent notes/Lessons aims and objectives.md",
+    "Permanent notes/ESA.md",
+    "Permanent notes/Classroom activities.md",
+    "Permanent notes/Authentic materials.md",
+    "Permanent notes/Writing lessons.md",
+    "Permanent notes/What makes a good teacher.md",
+    "Permanent notes/Using lesson template.md",
+    "Permanent notes/Welcome.md",
+    "Permanent notes/Types of lessons (language skills).md",
+    "Permanent notes/TTT.md",
+    "Permanent notes/Speaking lessons.md",
+    "Permanent notes/Reading and listening lessons.md",
+    "Permanent notes/PPP.md",
+    "Permanent notes/Phrasal verbs.md",
+    "Permanent notes/Peer teaching.md",
+    "Permanent notes/Paralinguistic features.md",
+    "Permanent notes/Pair and group work.md",
+    "Permanent notes/One-to-one lessons.md",
+    "Permanent notes/Monolingual vs multilingual classes.md",
+    "Permanent notes/Language components vs skills.md",
+    "Permanent notes/Icebreakers.md",
+    "Permanent notes/Grammar, pronunciation and vocabulary lessons.md",
+    "Permanent notes",
+    "Images/Pasted image 20250808142515.png",
+    "Images/Sample Plan Stage 1-April 2020.pdf",
+    "Images/Pasted image 20250808133126.png",
+    "Images/Unconfirmed 236224.crdownload",
+    "Images/Pasted image 20250808123914.png",
+    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Images/Pasted image 20250808122453.png",
     "Images/Pasted image 20250805152113.png",
-    "Grammar, pronunciation and vocabulary lessons.md",
-    "Phrasal verbs.md",
-    "Reading and listening lessons.md",
-    "Writing lessons.md",
-    "Fluency vs accuracy.md",
-    "Speaking lessons.md",
-    "TTT.md",
-    "PPP.md",
-    "Lesson structures.md",
-    "Paralinguistic features.md",
-    "Welcome.md",
-    "Language components vs skills.md",
-    "Icebreakers.md",
-    "What makes a good teacher.md",
-    "Different reasons for learning English.md"
+    "Images/Unconfirmed 639253.crdownload",
+    "remote-TEFL",
+    "Images"
   ]
 }
