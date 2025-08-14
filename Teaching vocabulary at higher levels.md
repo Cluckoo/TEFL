@@ -1,0 +1,1 @@
+Don't shy away from using [[Alternatives to translation for new vocab|pictures, acting, and games]], even if they are adults and they have a good level of English. However, a verbal definition has its place, especially when relating to other known words.

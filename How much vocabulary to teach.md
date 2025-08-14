@@ -1,0 +1,2 @@
+- 8-12 new words in a lesson
+- Prioritise words that are not only helpful for an activity, but in the real world!
