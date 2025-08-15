@@ -4,95 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c94f67bad2088ab1",
+        "id": "acdf5d0aa55d72a4",
         "type": "tabs",
         "children": [
           {
-            "id": "88ee146769fa07fe",
+            "id": "57af2af8ed260a09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept-checking questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concept-checking questions"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "bc06df5222075510",
+            "id": "156b110fdd6ddda7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How much vocabulary to teach.md",
+                "file": "FLEETING NOTE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How much vocabulary to teach"
+              "title": "FLEETING NOTE"
             }
           },
           {
-            "id": "0079d8a63b3d2e1c",
+            "id": "cd41c6b1b891c758",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Conveying the meaning of a phrase.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "Conveying the meaning of a phrase"
-            }
-          },
-          {
-            "id": "d86cc31d718e9fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recording new vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recording new vocabulary"
-            }
-          },
-          {
-            "id": "fbcf1b63c60e60ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recycling vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recycling vocabulary"
-            }
-          },
-          {
-            "id": "545f3a1da5944843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful resources"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "productive",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +97,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,22 +163,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent notes/Managing timings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Managing timings"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "eb5e70b2975ddfd5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,22 +195,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbcf1b63c60e60ca",
+  "active": "156b110fdd6ddda7",
   "lastOpenFiles": [
-    "Permanent notes/Reading and listening lessons.md",
+    "FLEETING NOTE.md",
     "Conveying the meaning of a phrase.md",
-    "Useful resources.md",
-    "Recycling vocabulary.md",
-    "Vocabulary box.md",
-    "Recording new vocabulary.md",
-    "Images/Pasted image 20250813164244.png",
-    "Receptive and productive vocabulary.md",
-    "Teaching a new word.md",
-    "How much vocabulary to teach.md",
+    "Alternatives to translation for new vocab.md",
+    "Writing lessons.md",
+    "Permanent notes/What makes a good teacher.md",
+    "Permanent notes/Lessons aims and objectives.md",
+    "Permanent notes/Writing lessons.md",
+    "Permanent notes/Using lesson template.md",
+    "Permanent notes/Types of lessons (language skills).md",
     "Permanent notes/TTT.md",
+    "Permanent notes/Speaking lessons.md",
+    "Permanent notes/Reading and listening lessons.md",
+    "Permanent notes/PPP.md",
     "Permanent notes/Phrasal verbs.md",
     "Permanent notes/Peer teaching.md",
     "Permanent notes/Paralinguistic features.md",
@@ -259,26 +221,22 @@
     "Permanent notes/One-to-one lessons.md",
     "Permanent notes/Monolingual vs multilingual classes.md",
     "Permanent notes/Managing timings.md",
-    "Permanent notes/Lessons aims and objectives.md",
+    "Permanent notes/Grammar, pronunciation and vocabulary lessons.md",
     "Permanent notes/Lesson structures.md",
     "Permanent notes/Lesson stages.md",
+    "Permanent notes/Language components vs skills.md",
     "Permanent notes/Icebreakers.md",
-    "Permanent notes/Grammar, pronunciation and vocabulary lessons.md",
     "Permanent notes/Fluency vs accuracy.md",
-    "Permanent notes/Differentiation.md",
-    "Permanent notes/Different reasons for learning English.md",
-    "Permanent notes/Classroom interaction patterns.md",
     "Permanent notes",
-    "Images/Pasted image 20250808142515.png",
-    "Images/Sample Plan Stage 1-April 2020.pdf",
-    "Images/Pasted image 20250808133126.png",
-    "Images/Unconfirmed 236224.crdownload",
-    "Images/Pasted image 20250808123914.png",
     "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Images/Sample Plan Stage 1-April 2020.pdf",
+    "Images/Pasted image 20250813164244.png",
+    "Images/Pasted image 20250808142515.png",
+    "Images/Pasted image 20250808133126.png",
+    "Images/Pasted image 20250808123914.png",
     "Images/Pasted image 20250808122453.png",
-    "Images/Pasted image 20250805152113.png",
-    "Images/Unconfirmed 639253.crdownload",
     "remote-TEFL",
-    "Images"
+    "Images",
+    "Images/Pasted image 20250805152113.png"
   ]
 }
