@@ -1,3 +1,4 @@
+#U2
 1. Realia = using real objects (like Dora the Explorer)
 2. Pictures
 3. Diagram (connections to other words)

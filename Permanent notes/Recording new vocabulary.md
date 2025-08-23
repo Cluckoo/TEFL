@@ -1,3 +1,4 @@
+#U2
 Students need to see vocabulary between 6-17 times before they remember it. That means they need some way to record new words.
 
 Ideas include:

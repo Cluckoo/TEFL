@@ -1,3 +1,4 @@
+#U2
 When introducing a new word, you should also teach it's MFP:
 1. Meaning = the definition of the word
 2. Pronunciation

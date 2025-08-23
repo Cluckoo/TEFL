@@ -1,3 +1,4 @@
+#U2
 Presenting the vocabulary needed for an upcoming activity is called vocabulary pre-teaching. To choose an appropriate vocabulary list, you should:
 1. Use vocabulary from the appropriate CEFR level
 2. Vocabulary relevant to the class (reason why they're learning English)
