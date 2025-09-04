@@ -1,3 +1,4 @@
+#U3
 IPA stands for international phonetic alphabet, and standardises the phonetics across languages.
 
 In English, the phonetic chart looks like so (44 sounds):

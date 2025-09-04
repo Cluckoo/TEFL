@@ -1,7 +1,8 @@
+#U3
 1. Teach students to recognise the stress of a sentence before using it in their own speech
 2. Teach rhythm alongside vocabulary and grammar
 3. Use authentic listening resources
-4. Use [[dictogloss]] and other dictation activities
+4. Use [[Dictogloss]] and other dictation activities
 5. Use poems, songs and jazz chants in the classroom.
 
 

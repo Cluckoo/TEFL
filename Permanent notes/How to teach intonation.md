@@ -1,3 +1,4 @@
+#U3
 1. Include intonation in speaking activities, and make it fun!
 2. Provide activities that encourage use of certain intonations. E.g., different types of Qs
 3. Provide accurate examples/models

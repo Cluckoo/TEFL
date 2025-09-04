@@ -4,137 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "95f4eca33bc4fb75",
+        "id": "acdf5d0aa55d72a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea11f849e9604790",
+            "id": "57af2af8ed260a09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/FLEETING NOTE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FLEETING NOTE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "aa4f1a8f3a7e42bb",
+            "id": "6cf11b5c84b25a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching phonetics.md",
+                "file": "Permanent notes/Word stress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teaching phonetics"
+              "title": "Word stress"
             }
           },
           {
-            "id": "1d3dadcf19b14c89",
+            "id": "33b55a78020b8926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPA in English.md",
+                "file": "Parts of speech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPA in English"
+              "title": "Parts of speech"
             }
           },
           {
-            "id": "56c07a5842686463",
+            "id": "b195f932c58381dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accents and IPA.md",
+                "file": "Permanent notes/Disappearing syllables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accents and IPA"
-            }
-          },
-          {
-            "id": "66539640696284c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accents and IPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accents and IPA"
-            }
-          },
-          {
-            "id": "b4be5c088185b5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPA in English.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPA in English"
-            }
-          },
-          {
-            "id": "5907b04da871d048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Useful resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful resources"
-            }
-          },
-          {
-            "id": "e080e5837c4b5762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marking word stress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marking word stress"
-            }
-          },
-          {
-            "id": "c063a72d1512a132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Useful resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful resources"
+              "title": "Disappearing syllables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monop",
+                "query": "accents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent notes/Managing timings.md",
+                "file": "Permanent notes/Disappearing syllables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Managing timings"
+              "title": "Outline of Disappearing syllables"
             }
           }
         ],
@@ -267,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,52 +206,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cebad3edc70b5db",
+  "active": "b195f932c58381dc",
   "lastOpenFiles": [
-    "Using or teaching IPA.md",
-    "Accents and IPA.md",
-    "Teaching phonetics.md",
-    "Misc/Useful resources.md",
-    "Correcting first language interference.md",
-    "IPA in English.md",
-    "Misc/Fun facts.md",
-    "Bottom line consonants.md",
-    "Images/Pasted image 20250823155726.png",
-    "Fricatives.md",
-    "Images/Pasted image 20250823155056.png",
-    "Plosives.md",
-    "Marking word stress.md",
-    "Images/Pasted image 20250823154321.png",
-    "Phonetics.md",
-    "Question tags.md",
-    "Sentence stress.md",
-    "How to teach sentence stress.md",
-    "How to teach intonation.md",
-    "Intonation.md",
-    "Phonemes vs sounds.md",
-    "Images/Pasted image 20250822162021.png",
-    "Types of consonants.md",
-    "Misc/Useful glossary.md",
-    "Phonemes.md",
-    "Pasted image 20250822161930.png",
-    "Misc/FLEETING NOTE.md",
-    "Word stress.md",
-    "Word family pronunciation.md",
+    "Permanent notes/Elision.md",
+    "Permanent notes/ESA.md",
+    "Permanent notes/Fricatives.md",
+    "Permanent notes/Grammar, pronunciation and vocabulary lessons.md",
+    "Permanent notes/IPA in English.md",
+    "Permanent notes/Icebreakers.md",
+    "Permanent notes/Recording new vocabulary.md",
+    "Permanent notes/PPP.md",
+    "Permanent notes/Paralinguistic features.md",
+    "Permanent notes/Pair and group work.md",
+    "Permanent notes/Recycling vocabulary.md",
+    "Permanent notes/Teaching vocabulary at higher levels.md",
+    "Permanent notes/Types of lessons (language skills).md",
+    "Permanent notes/Vocabulary box.md",
+    "Permanent notes/Writing lessons.md",
+    "Permanent notes/Word stress.md",
+    "Permanent notes/Vocabulary pre-teaching.md",
+    "Permanent notes/Accents and IPA.md",
+    "Permanent notes/Alternatives to translation for new vocab.md",
     "Word families.md",
-    "Teaching word stress.md",
-    "Untitled",
+    "Using or teaching IPA.md",
+    "Teaching phonetics.md",
+    "Parts of speech.md",
+    "Teaching grammar.md",
+    "Shifting stress (latinate prefix).md",
+    "Word family pronunciation.md",
+    "Misc",
+    "Images/Pasted image 20250823155726.png",
+    "Images/Pasted image 20250823155056.png",
+    "Images/Pasted image 20250823154321.png",
+    "Images/Pasted image 20250822162021.png",
     "Images/Pasted image 20250818141422.png",
     "Images/Pasted image 20250816140703.png",
-    "Wor",
     "Images/Pasted image 20250815152005.png",
-    "Misc",
-    "Images/Pasted image 20250813164244.png",
     "Permanent notes",
-    "Images/Pasted image 20250808142515.png",
-    "Images/Sample Plan Stage 1-April 2020.pdf",
-    "Images/Unconfirmed 236224.crdownload",
     "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
-    "Images/Unconfirmed 639253.crdownload",
+    "Images/Sample Plan Stage 1-April 2020.pdf",
+    "Images/Pasted image 20250813164244.png",
+    "Images/Pasted image 20250808142515.png",
+    "Images/Pasted image 20250808133126.png",
     "remote-TEFL",
     "Images"
   ]

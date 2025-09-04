@@ -1,3 +1,4 @@
+#U3
 The second row of consonants on the [[IPA in English|phonetic chart]] are fricatives. These consonants are made by partially restricting the air.. As you go left to right, the point where the air is restricted moves from the front to the back of the mouth.
 
 ![[Pasted image 20250823155056.png]]

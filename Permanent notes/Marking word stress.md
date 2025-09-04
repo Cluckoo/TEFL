@@ -1,3 +1,4 @@
+#U3
 Mark stress with a consistent style:
 1. Shapes over the word (squares/circles)
 2. Dot over the primary stress

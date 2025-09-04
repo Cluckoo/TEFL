@@ -1,4 +1,5 @@
-The third row of consonants on the [[IPA in English|phonetic chart]] are the leftovers that are neither [[plosives]] nor [[fricatives]]. These consonants are all voiced. The first three consonants are nasal.
+#U3
+The third row of consonants on the [[IPA in English|phonetic chart]] are the leftovers that are neither [[plosives]] nor [[Fricatives]]. These consonants are all voiced. The first three consonants are nasal.
 
 ![[Pasted image 20250823155726.png]]
 Each has a distinct articulation:
