@@ -1,3 +1,4 @@
+#U3
 ### 1. **Plosives**
 - **Definition**: Consonant sounds made by **blocking the airflow completely** in the vocal tract, building up pressure, and then **releasing it suddenly**.
 - **Examples in English**: /p b t d k g/ (as in _pat, bat, top, dog, cat, go_).

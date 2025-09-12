@@ -1,3 +1,4 @@
+#U3
 The first row of consonants on the [[IPA in English|phonetic chart]] are plosives. These consonants are made by stopping the air completely and suddenly releasing it. As you go left to right, the point where the air stops moves from the front to the back of the mouth.
 
 ![[Pasted image 20250823154321.png]]

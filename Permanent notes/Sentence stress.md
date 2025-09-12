@@ -1,3 +1,4 @@
+#U3
 As well as stress within individual words, there is the stress across a sentence. Individual words become more stressed within a sentence.
 
 However, within the "stressed words", the [[Word stress|stress]] must still be on the correct syllable:
