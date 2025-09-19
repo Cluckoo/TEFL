@@ -1,0 +1,3 @@
+We read using a combination of [[Top-down vs bottom-up processing|top-down and bottom-up processing]]. However, depending on our reading goals, we may rely more on one than the other. For instance, when reading **intensively** (to study or extract detailed information), we tend to use more **bottom-up processing** to ensure that no details are missed. In contrast, during **extensive reading** (for leisure or general understanding), we lean more on **top-down processing**, drawing on context and background knowledge to predict meaning.
+
+Cohesive devices, including [[discourse markers]], support both processes: some require careful **bottom-up decoding** (e.g., pronoun reference), while others serve as **top-down signposts** that guide us through the flow of ideas.

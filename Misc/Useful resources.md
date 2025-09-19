@@ -13,3 +13,10 @@ https://www.fluentu.com/blog/educator-english/esl-pronunciation-activities/
 
 https://www.eslactivities.com/bingo.php
 
+https://www.examenglish.com/CEFR/cefr_grammar.htm
+
+https://www.englishpage.com/verbpage/verbtenseintro.html
+
+https://www.helbling.com/int/en/blog/reading-in-the-classroom-role-plays
+
+https://www.vocabkitchen.com/
