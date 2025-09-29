@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c03d9479ac193708",
+        "id": "3511d6c4138d5ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e271d0af6e5c65",
+            "id": "cb2714c462de237c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/MOC Teaching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC Teaching"
-            }
-          },
-          {
-            "id": "6dd050d9d90c0085",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "21294c5ff969d293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Useful resources.md",
+                "file": "Planning a listening lesson.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,90 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Useful resources"
+              "title": "Planning a listening lesson"
+            }
+          },
+          {
+            "id": "ff2c5fa1022dc8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Classroom interaction patterns.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classroom interaction patterns"
+            }
+          },
+          {
+            "id": "14c438120803ef61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading lesson example.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reading lesson example"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "051d7f29f5a20ae5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ab30b81ec8edea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading activities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reading activities"
-            }
-          },
-          {
-            "id": "84183fbbbfb79859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading lesson structure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reading lesson structure"
-            }
-          },
-          {
-            "id": "93098d81f047c87b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning a reading lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning a reading lesson"
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reading lesson",
+                "query": "interaction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning a reading lesson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planning a reading lesson"
+              "title": "Backlinks"
             }
           },
           {
@@ -255,20 +199,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent notes/Managing timings.md",
+                "file": "Planning a reading lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Managing timings"
+              "title": "Outline of Planning a reading lesson"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,53 +227,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93098d81f047c87b",
+  "active": "9cebad3edc70b5db",
   "lastOpenFiles": [
-    "Misc/Useful resources.md",
+    "Permanent notes/Pair and group work.md",
+    "Permanent notes/Classroom interaction patterns.md",
+    "Reading lesson example.md",
     "Planning a reading lesson.md",
-    "Reading lesson structure.md",
-    "Untitled.md",
-    "Reading activities.md",
-    "The developmental reading stages.md",
+    "Planning a listening lesson.md",
+    "Images/Sample Plan Stage 1-April 2020.pdf",
+    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
     "Designing comprehension questions.md",
-    "Cohesive devices.md",
-    "Extensive vs intensive reading.md",
-    "Pasted image 20250917171836.png",
-    "Reading activities and resources.md",
-    "Permanent notes/Reading and listening lessons.md",
-    "Desigin.md",
-    "Adapting coursebook material.md",
-    "Permanent notes/Authentic materials.md",
-    "How we read.md",
-    "MOCs/MOC Applied theory.md",
-    "Top-down vs bottom-up processing.md",
-    "Digraphs and strings.md",
+    "Permanent notes/Using lesson template.md",
+    "Skimming vs scanning.md",
     "MOCs/MOC Teaching.md",
+    "Adapting coursebook material.md",
+    "Permanent notes/Concept-checking questions.md",
+    "Permanent notes/Reading and listening lessons.md",
+    "The developmental reading stages.md",
+    "Misc/Useful resources.md",
+    "Top-down vs bottom-up processing.md",
+    "Types of listening.md",
+    "Reading lesson structure.md",
+    "Unit 5- Full Reading Lesson Plan-July2020.pdf",
+    "Extensive vs intensive reading.md",
+    "Permanent notes/Word family pronunciation.md",
+    "Permanent notes/Shifting stress (latinate prefix).md",
+    "Permanent notes/Conjunctions.md",
+    "Permanent notes/Conditional forms.md",
+    "Permanent notes/Complements.md",
+    "Permanent notes/Clauses.md",
+    "Permanent notes/Clauses and phrases.md",
+    "Permanent notes/Auxillary verbs.md",
     "MOCs",
-    "Permanent notes/Modal verbs.md",
-    "Permanent notes/Adjectives.md",
-    "MOCs/MOC Theory.md",
-    "Permanent notes/Teaching grammar.md",
-    "Permanent notes/Types of consonants.md",
-    "Permanent notes/Parts of speech.md",
-    "Permanent notes/Types of language timing.md",
-    "Untitled.base",
     "Images/Pasted image 20250906162422.png",
     "Images/Pasted image 20250904135802.png",
+    "Misc",
     "Images/Pasted image 20250823155726.png",
     "Images/Pasted image 20250823155056.png",
     "Images/Pasted image 20250823154321.png",
     "Images/Pasted image 20250822162021.png",
-    "Pasted image 20250822161930.png",
     "Images/Pasted image 20250818141422.png",
     "Images/Pasted image 20250816140703.png",
-    "Wor",
-    "Misc",
+    "Images/Pasted image 20250815152005.png",
     "Permanent notes",
-    "Images/Sample Plan Stage 1-April 2020.pdf",
-    "Images/Unconfirmed 236224.crdownload",
-    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
-    "Images/Unconfirmed 639253.crdownload",
-    "remote-TEFL"
+    "Images/Pasted image 20250813164244.png",
+    "remote-TEFL",
+    "Images"
   ]
 }
