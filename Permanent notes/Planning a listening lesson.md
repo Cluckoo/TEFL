@@ -1,3 +1,4 @@
+#U5
 The standard lesson procedure for a listening lesson is very similar to a [[Planning a reading lesson|reading lesson]]. The stages are the same. 
 
 For a listening lesson, the first three stages need to create a context and allow the listeners to familiarise themselves with the speaker. This is important to allow adjustment to:

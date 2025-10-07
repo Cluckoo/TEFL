@@ -1,3 +1,4 @@
+#U5
 Children go through 5 stages of reading as they improve:
 1. Pre-reading
 	- Awareness of letters and words

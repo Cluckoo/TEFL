@@ -22,3 +22,5 @@ https://www.helbling.com/int/en/blog/reading-in-the-classroom-role-plays
 https://www.vocabkitchen.com/
 
 https://e-learning.theteflacademy.com/mod/forum/view.php?id=644&forceview=1
+
+https://www.usingenglish.com/teachers/articles/how-to-teach-advice-recommendations-suggestions.html

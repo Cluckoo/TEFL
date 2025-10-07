@@ -28,16 +28,4 @@ Subordinate clauses must start with a subordinating conjunction (see below) or r
 	- Non-essential: "My friend, who was waiting in line, saw me and waved"
 
 
-##### Subordinating conjunctions
-There are many subordinating conjunctions, but here is a way to remember some common ones:
-- A WHITE BUS - although, whenever, if, though, even if, because, unless, since
-
-| **Clause Type**     | **Examples**                                            |
-| ------------------- | ------------------------------------------------------- |
-| Reason clauses      | since; because; as                                      |
-| Place clauses       | where; everywhere                                       |
-| Result clauses      | so that; such...that                                    |
-| Conditional clauses | if; unless; as long as                                  |
-| Time clauses        | when; before; after; since; as; as soon as; by the time |
-| Purpose clauses     | so that; because; so                                    |
-| Contrast clauses    | while; although; though; even though                    |
+##### Subordinate clauses require [[Subordinating conjunctions]]

@@ -15,7 +15,29 @@ Most conjunctions have the same basic meaning as either:
 2. or
 3. but
 
-##### Different categories of conjunctions
+##### Different types of conjunctions
+###### 1. Coordinating (connects equally important clauses)
+- FANBOYS (7 types): ^810096
+	 - for, and, nor, but, or, yet, so
+
+###### 2. Subordinating (connects a dependent clause to an independent one)
+- because, although, while, since, unless, if, when
+	- There are many subordinating conjunctions, but here is a way to remember some common ones:
+- A WHITE BUS - although, whenever, if, though, even if, because, unless, since
+
+| **Clause Type**     | **Examples**                                            |
+| ------------------- | ------------------------------------------------------- |
+| Reason clauses      | since; because; as                                      |
+| Place clauses       | where; everywhere                                       |
+| Result clauses      | so that; such...that                                    |
+| Conditional clauses | if; unless; as long as                                  |
+| Time clauses        | when; before; after; since; as; as soon as; by the time |
+| Purpose clauses     | so that; because; so                                    |
+| Contrast clauses    | while; although; though; even though                    |
+
+###### 3. Correlative (work in pairs to maintain a structure)
+- either... or, neither... nor, both... and, not only... but also, unless, whether... or
+##### Different functional types of conjunctions
 - **Addition**: also, so, as well, in addition
 - **Result/Cause:** so (that), because, because of
 - **Conditions:** if, if not, unless

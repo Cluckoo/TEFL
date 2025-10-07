@@ -1,1 +1,2 @@
+#U5
 When reading, we recognise two letters together as forming distinct sounds such as "sh"; these are digraphs. When three or more letters come together to form a sound such as "l**igh**t", these are called strings. 

@@ -1,3 +1,4 @@
+#U5
 Readers can understand individual words in a text through a combination of top-down and bottom-up processing:
 
 - Top-down processing involves predicting the words based on the meaning of the text, as well as general and cultural knowledge.
