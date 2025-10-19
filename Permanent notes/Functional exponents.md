@@ -1,3 +1,4 @@
+#U6
 These are all the different ways to express the same function. 
 
 Asking to open the window is a specific request, but you can see how the first three exponents can be used for any request:

@@ -193,10 +193,216 @@
             "id": "6a0b899d8750e4d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Why teach writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why teach writing"
+            }
+          },
+          {
+            "id": "43bafbe48451a1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The deductive vs inductive approach.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The deductive vs inductive approach"
+            }
+          },
+          {
+            "id": "b2df8f294038b950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drilling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drilling"
+            }
+          },
+          {
+            "id": "93c17161239cd40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/PPP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PPP"
+            }
+          },
+          {
+            "id": "980450ba0bb9f76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPP for grammar lesson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PPP for grammar lesson"
+            }
+          },
+          {
+            "id": "d43a8f82ff12c991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Recycling vocabulary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recycling vocabulary"
+            }
+          },
+          {
+            "id": "547c4b52d03ca1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recycling language (grammar).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recycling language (grammar)"
+            }
+          },
+          {
+            "id": "8220dfafdfb88554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Errors vs mistakes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Errors vs mistakes"
+            }
+          },
+          {
+            "id": "142d763ffdda96b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recycling language (grammar).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recycling language (grammar)"
             }
           },
           {
@@ -270,9 +476,33 @@
               "icon": "lucide-file",
               "title": "Process vs product writing"
             }
+          },
+          {
+            "id": "dd704da7175070b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Why teach writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why teach writing"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -304,7 +534,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lexical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -345,6 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent notes/Why teach writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +585,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Why teach writing"
             }
           },
           {
@@ -417,52 +648,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0b899d8750e4d6",
+  "active": "9cebad3edc70b5db",
   "lastOpenFiles": [
-    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
-    "Images/Unit 5- Full Reading Lesson Plan-July2020.pdf",
-    "Permanent notes/Types of lessons (language skills).md",
-    "Permanent notes/Speaking lessons.md",
-    "Correction code.md",
-    "Teaching a writing lesson.md",
-    "Process vs product writing.md",
-    "Planning a writing lesson.md",
-    "Lexical cohesion.md",
-    "Subordinating conjunctions.md",
-    "Permanent notes/Cohesive devices.md",
-    "Permanent notes/Clauses.md",
-    "Permanent notes/Sentences.md",
-    "Permanent notes/Conjunctions.md",
-    "Permanent notes/Punctuation.md",
-    "Reference cohesion.md",
-    "Images/Pasted image 20251002170512.png",
-    "Why teach writing.md",
-    "Planning a speaking lesson.md",
-    "Example of speaking lesson.md",
+    "Permanent notes/The deductive vs inductive approach.md",
+    "Permanent notes/Techniques for correcting errors.md",
+    "Permanent notes/Teaching functions.md",
+    "Permanent notes/Teaching a writing lesson.md",
+    "Permanent notes/Reference cohesion.md",
+    "Permanent notes/Recycling language (grammar).md",
+    "Permanent notes/Process vs product writing.md",
+    "Permanent notes/PPP for grammar lesson.md",
+    "Permanent notes/Planning a speaking lesson (PPP).md",
+    "Permanent notes/Planning a grammar lesson (PPP).md",
+    "Permanent notes/Lexical cohesion.md",
+    "Permanent notes/Functions.md",
+    "Permanent notes/Functional exponents.md",
+    "Permanent notes/Example of TBL.md",
+    "Permanent notes/Example of speaking lesson.md",
+    "Permanent notes/Errors vs mistakes.md",
+    "Permanent notes/Drilling.md",
+    "Permanent notes/Eliciting.md",
+    "Permanent notes/Alternative grammar lessons to PPP.md",
+    "Permanent notes/Conditionals.md",
+    "Permanent notes/Correction code.md",
     "Misc/Useful resources.md",
-    "Permanent notes/PPP.md",
-    "Teaching functions.md",
-    "Functions.md",
-    "Functional exponents.md",
-    "Permanent notes/Adapting coursebook material.md",
-    "Permanent notes/Types of listening.md",
-    "Permanent notes/Top-down vs bottom-up processing.md",
+    "Permanent notes/Alternatives to translation for new vocab.md",
+    "Permanent notes/Recycling vocabulary.md",
+    "Permanent notes/Language components vs skills.md",
+    "Permanent notes/Language skills (language skills).md",
+    "Images/Task_based_learning_ws1&2.pdf",
+    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Images/TEFL02_L5_U7_Warmer activity_.pdf",
+    "Images/Comparatives Lesson Plan - July 2024.pdf",
+    "Comparatives Lesson Plan - July 2024 1.pdf",
+    "Images/Unit 7 Description of a PPP lesson-April 2020.doc.pdf",
+    "Images/Unit 5- Full Reading Lesson Plan-July2020.pdf",
+    "Images/Pasted image 20250904135802.png",
+    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Images/Pasted image 20251002170512.png",
     "Pasted image 20250917171836.png",
     "MOCs",
     "Untitled.base",
     "Images/Pasted image 20250906162422.png",
-    "Images/Pasted image 20250904135802.png",
     "Images/Pasted image 20250823155726.png",
     "Images/Pasted image 20250823155056.png",
     "Images/Pasted image 20250823154321.png",
     "Images/Pasted image 20250822162021.png",
     "Pasted image 20250822161930.png",
-    "Images/Pasted image 20250818141422.png",
-    "Wor",
-    "Misc",
-    "Permanent notes",
-    "Images/Sample Plan Stage 1-April 2020.pdf",
-    "Images/Unconfirmed 236224.crdownload",
-    "Images/Unconfirmed 639253.crdownload"
+    "Images/Pasted image 20250818141422.png"
   ]
 }

@@ -1,3 +1,4 @@
+#U6
 A language function explains why someone says something, and what the goal of the information communicated is. 
 
 Many phrases can fall under the same function, all with varying formalities and nuances. These are called [[Functional exponents]]. Hence, using the appropriate phrase to fulfil a function is heavily context-dependent.

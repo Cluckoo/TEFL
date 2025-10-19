@@ -10,7 +10,7 @@ A standard reading lessons follows [[Reading lesson structure|this structure|]].
 	- You should then decide how to pre-teach your selected vocabulary. Decide for each word:
 	- Images
 	- Realia
-	- Eliciting
+	- [[Eliciting]]
 	- Other activities
 
 The first two stages are pre-reading stages. You are preparing learners for the text.

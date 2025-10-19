@@ -1,3 +1,4 @@
+#U6
 This is repeating or using related words. There are two main types:
 1. Reiteration
 	- the repetition of the same word or synonyms for that word throughout the text.
