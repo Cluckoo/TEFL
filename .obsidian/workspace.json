@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c03d9479ac193708",
+        "id": "6825e2702ba4bad5",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e271d0af6e5c65",
+            "id": "f996664dd19d5a05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/MOC Teaching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC Teaching"
-            }
-          },
-          {
-            "id": "6dd050d9d90c0085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Speaking lessons.md",
+                "file": "Flashcards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,467 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Speaking lessons"
-            }
-          },
-          {
-            "id": "846e356ee0b84aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Functions"
-            }
-          },
-          {
-            "id": "d31cce0e0988e86b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teaching functions"
-            }
-          },
-          {
-            "id": "e39a60f7bb61031b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning a speaking lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning a speaking lesson"
-            }
-          },
-          {
-            "id": "3b453dd9959250ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning a speaking lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning a speaking lesson"
-            }
-          },
-          {
-            "id": "3d79e0d0d7766370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching a writing lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teaching a writing lesson"
-            }
-          },
-          {
-            "id": "d8398c4be9345fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning a speaking lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning a speaking lesson"
-            }
-          },
-          {
-            "id": "6a0b899d8750e4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why teach writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why teach writing"
-            }
-          },
-          {
-            "id": "43bafbe48451a1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The deductive vs inductive approach.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The deductive vs inductive approach"
-            }
-          },
-          {
-            "id": "b2df8f294038b950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drilling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drilling"
-            }
-          },
-          {
-            "id": "93c17161239cd40c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/PPP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PPP"
-            }
-          },
-          {
-            "id": "980450ba0bb9f76d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPP for grammar lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PPP for grammar lesson"
-            }
-          },
-          {
-            "id": "d43a8f82ff12c991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Recycling vocabulary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recycling vocabulary"
-            }
-          },
-          {
-            "id": "547c4b52d03ca1ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recycling language (grammar).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recycling language (grammar)"
-            }
-          },
-          {
-            "id": "8220dfafdfb88554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Errors vs mistakes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Errors vs mistakes"
-            }
-          },
-          {
-            "id": "142d763ffdda96b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recycling language (grammar).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recycling language (grammar)"
-            }
-          },
-          {
-            "id": "beb5ed8b0a4f8cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why teach writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why teach writing"
-            }
-          },
-          {
-            "id": "09e556631ad89608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexical cohesion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lexical cohesion"
-            }
-          },
-          {
-            "id": "7dd721356e3265b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process vs product writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Process vs product writing"
-            }
-          },
-          {
-            "id": "dd704da7175070b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Why teach writing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why teach writing"
+              "title": "Flashcards"
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -534,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lexical",
+                "query": "task based",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -575,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent notes/Why teach writing.md",
+                "file": "Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -585,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why teach writing"
+              "title": "Backlinks for Flashcards"
             }
           },
           {
@@ -648,34 +177,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cebad3edc70b5db",
+  "active": "f996664dd19d5a05",
   "lastOpenFiles": [
-    "Permanent notes/The deductive vs inductive approach.md",
-    "Permanent notes/Techniques for correcting errors.md",
-    "Permanent notes/Teaching functions.md",
-    "Permanent notes/Teaching a writing lesson.md",
-    "Permanent notes/Reference cohesion.md",
-    "Permanent notes/Recycling language (grammar).md",
-    "Permanent notes/Process vs product writing.md",
-    "Permanent notes/PPP for grammar lesson.md",
-    "Permanent notes/Planning a speaking lesson (PPP).md",
-    "Permanent notes/Planning a grammar lesson (PPP).md",
-    "Permanent notes/Lexical cohesion.md",
-    "Permanent notes/Functions.md",
-    "Permanent notes/Functional exponents.md",
+    "Teaching aids.md",
+    "Flashcards.md",
+    "Permanent notes/Authentic materials.md",
+    "Permanent notes/Total Physical Response.md",
+    "Permanent notes/The Silent Way.md",
+    "Permanent notes/The Natural Approach.md",
+    "Permanent notes/The Lexical Approach.md",
+    "Permanent notes/The Dogme Approach.md",
+    "Permanent notes/The Competency Based Language Teaching (CBLT).md",
+    "Permanent notes/Task Based Language Learning (TBLL).md",
+    "Permanent notes/Suggestopedia.md",
+    "Permanent notes/Reform Movement.md",
+    "Permanent notes/Oral Approach or Situational English.md",
+    "Permanent notes/Grammar Translation method.md",
+    "Permanent notes/Direct method.md",
+    "Permanent notes/Content and Language Integrated Learning (CLIL).md",
+    "Permanent notes/Community Language Learning.md",
+    "Permanent notes/Communicative Language Teaching.md",
+    "Permanent notes/Behaviourism and Innatism.md",
+    "Permanent notes/Audiolingualism.md",
+    "Permanent notes/Approaches to teaching English.md",
+    "Alternative ‘humanistic’ approaches.md",
     "Permanent notes/Example of TBL.md",
-    "Permanent notes/Example of speaking lesson.md",
-    "Permanent notes/Errors vs mistakes.md",
-    "Permanent notes/Drilling.md",
-    "Permanent notes/Eliciting.md",
-    "Permanent notes/Alternative grammar lessons to PPP.md",
-    "Permanent notes/Conditionals.md",
-    "Permanent notes/Correction code.md",
-    "Misc/Useful resources.md",
-    "Permanent notes/Alternatives to translation for new vocab.md",
+    "Oral Approach/Situational English.md",
+    "Oral Approach",
+    "Permanent notes/Classroom interaction patterns.md",
     "Permanent notes/Recycling vocabulary.md",
-    "Permanent notes/Language components vs skills.md",
-    "Permanent notes/Language skills (language skills).md",
     "Images/Task_based_learning_ws1&2.pdf",
     "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
     "Images/TEFL02_L5_U7_Warmer activity_.pdf",
@@ -688,7 +218,6 @@
     "Images/Pasted image 20251002170512.png",
     "Pasted image 20250917171836.png",
     "MOCs",
-    "Untitled.base",
     "Images/Pasted image 20250906162422.png",
     "Images/Pasted image 20250823155726.png",
     "Images/Pasted image 20250823155056.png",
