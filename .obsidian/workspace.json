@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards.md",
+                "file": "Virtual classrooms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flashcards"
+              "title": "Virtual classrooms"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task based",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flashcards.md",
+                "file": "Virtual classrooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flashcards"
+              "title": "Backlinks for Virtual classrooms"
             }
           },
           {
@@ -179,9 +179,22 @@
   },
   "active": "f996664dd19d5a05",
   "lastOpenFiles": [
+    "Using electronic devices and online tools.md",
     "Teaching aids.md",
+    "Story time.md",
+    "Pictures and realia.md",
     "Flashcards.md",
+    "Feely bags and sticky balls.md",
+    "Evaluating the appropriateness and safety of group activities.md",
+    "Creating teaching activities using authentic media sources.md",
+    "Copyright.md",
+    "Virtual classrooms.md",
+    "Permanent notes/Classroom activities.md",
+    "Misc/Useful resources.md",
+    "Misc/Useful glossary.md",
     "Permanent notes/Authentic materials.md",
+    "Permanent notes/Alternatives to translation for new vocab.md",
+    "Permanent notes/One-to-one lessons.md",
     "Permanent notes/Total Physical Response.md",
     "Permanent notes/The Silent Way.md",
     "Permanent notes/The Natural Approach.md",
@@ -192,20 +205,7 @@
     "Permanent notes/Suggestopedia.md",
     "Permanent notes/Reform Movement.md",
     "Permanent notes/Oral Approach or Situational English.md",
-    "Permanent notes/Grammar Translation method.md",
-    "Permanent notes/Direct method.md",
-    "Permanent notes/Content and Language Integrated Learning (CLIL).md",
-    "Permanent notes/Community Language Learning.md",
-    "Permanent notes/Communicative Language Teaching.md",
-    "Permanent notes/Behaviourism and Innatism.md",
-    "Permanent notes/Audiolingualism.md",
-    "Permanent notes/Approaches to teaching English.md",
-    "Alternative ‘humanistic’ approaches.md",
-    "Permanent notes/Example of TBL.md",
-    "Oral Approach/Situational English.md",
     "Oral Approach",
-    "Permanent notes/Classroom interaction patterns.md",
-    "Permanent notes/Recycling vocabulary.md",
     "Images/Task_based_learning_ws1&2.pdf",
     "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
     "Images/TEFL02_L5_U7_Warmer activity_.pdf",

@@ -1,3 +1,4 @@
+#U9
 [[Flashcards]]
 [[Pictures and realia]]
 [[Authentic materials]]
@@ -5,10 +6,7 @@
 [[Story time]]
 [[Using electronic devices and online tools]]
 [[Virtual classrooms]]
-[[What equipment and resources do I need to use media effectively?]]
 [[Creating teaching activities using authentic media sources]]
-[[Navigating copyright when re-using online content]]
-[[Creative commons licensing and permissions]]
+[[Copyright]]
 [[Classroom activities]]
-[[Collaborative activities]]
 [[Evaluating the appropriateness and safety of group activities]]
