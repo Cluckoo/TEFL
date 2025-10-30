@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6825e2702ba4bad5",
+        "id": "bd0e0a2b319f9901",
         "type": "tabs",
         "children": [
           {
-            "id": "f996664dd19d5a05",
+            "id": "37f34096ecbffa36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards.md",
+                "file": "Reasons why students misbehave.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flashcards"
+              "title": "Reasons why students misbehave"
+            }
+          },
+          {
+            "id": "8e86df986f4a27ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasons why students misbehave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reasons why students misbehave"
+            }
+          },
+          {
+            "id": "b53d9560bd92905d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classroom contract.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classroom contract"
+            }
+          },
+          {
+            "id": "b10605b9e02dc1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Establishing a routine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Establishing a routine"
+            }
+          },
+          {
+            "id": "a7b6f3f6a8cd25ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasons why students misbehave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reasons why students misbehave"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task based",
+                "query": "interaction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flashcards"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,20 +247,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent notes/Managing timings.md",
+                "file": "Planning a reading lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Managing timings"
+              "title": "Outline of Planning a reading lesson"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,53 +275,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f996664dd19d5a05",
+  "active": "a7b6f3f6a8cd25ad",
   "lastOpenFiles": [
+    "Establishing a routine.md",
+    "Reasons why students misbehave.md",
     "Teaching aids.md",
+    "Classroom contract.md",
     "Flashcards.md",
-    "Permanent notes/Authentic materials.md",
+    "General rules for classroom management.md",
+    "Permanent notes/Classroom interaction patterns.md",
+    "Permanent notes/Why teach writing.md",
+    "Permanent notes/Types of listening.md",
     "Permanent notes/Total Physical Response.md",
-    "Permanent notes/The Silent Way.md",
-    "Permanent notes/The Natural Approach.md",
-    "Permanent notes/The Lexical Approach.md",
-    "Permanent notes/The Dogme Approach.md",
-    "Permanent notes/The Competency Based Language Teaching (CBLT).md",
-    "Permanent notes/Task Based Language Learning (TBLL).md",
-    "Permanent notes/Suggestopedia.md",
-    "Permanent notes/Reform Movement.md",
-    "Permanent notes/Oral Approach or Situational English.md",
-    "Permanent notes/Grammar Translation method.md",
-    "Permanent notes/Direct method.md",
+    "Permanent notes/Top-down vs bottom-up processing.md",
+    "Permanent notes/Digraphs and strings.md",
+    "Permanent notes/Designing comprehension questions.md",
+    "Permanent notes/Correction code.md",
     "Permanent notes/Content and Language Integrated Learning (CLIL).md",
+    "Permanent notes/Conditionals.md",
     "Permanent notes/Community Language Learning.md",
     "Permanent notes/Communicative Language Teaching.md",
+    "Permanent notes/Cohesive devices.md",
     "Permanent notes/Behaviourism and Innatism.md",
     "Permanent notes/Audiolingualism.md",
     "Permanent notes/Approaches to teaching English.md",
-    "Alternative ‘humanistic’ approaches.md",
-    "Permanent notes/Example of TBL.md",
-    "Oral Approach/Situational English.md",
-    "Oral Approach",
-    "Permanent notes/Classroom interaction patterns.md",
-    "Permanent notes/Recycling vocabulary.md",
-    "Images/Task_based_learning_ws1&2.pdf",
-    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
-    "Images/TEFL02_L5_U7_Warmer activity_.pdf",
-    "Images/Comparatives Lesson Plan - July 2024.pdf",
-    "Comparatives Lesson Plan - July 2024 1.pdf",
+    "Permanent notes/Alternative grammar lessons to PPP.md",
+    "Permanent notes/Adapting coursebook material.md",
     "Images/Unit 7 Description of a PPP lesson-April 2020.doc.pdf",
     "Images/Unit 5- Full Reading Lesson Plan-July2020.pdf",
-    "Images/Pasted image 20250904135802.png",
-    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Images/Task_based_learning_ws1&2.pdf",
+    "Images/TEFL02_L5_U7_Warmer activity_.pdf",
     "Images/Pasted image 20251002170512.png",
-    "Pasted image 20250917171836.png",
+    "Images/Comparatives Lesson Plan - July 2024.pdf",
+    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Permanent notes/Pair and group work.md",
+    "Reading lesson example.md",
+    "Images/Sample Plan Stage 1-April 2020.pdf",
+    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Unit 5- Full Reading Lesson Plan-July2020.pdf",
     "MOCs",
     "Images/Pasted image 20250906162422.png",
+    "Images/Pasted image 20250904135802.png",
     "Images/Pasted image 20250823155726.png",
     "Images/Pasted image 20250823155056.png",
     "Images/Pasted image 20250823154321.png",
     "Images/Pasted image 20250822162021.png",
-    "Pasted image 20250822161930.png",
-    "Images/Pasted image 20250818141422.png"
+    "Images/Pasted image 20250818141422.png",
+    "Images/Pasted image 20250816140703.png",
+    "Images/Pasted image 20250815152005.png"
   ]
 }
