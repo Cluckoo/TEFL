@@ -30,3 +30,15 @@ https://www.teachingenglish.org.uk/professional-development/teachers/knowing-sub
 https://toptools4learning.com/
 
 https://search.creativecommons.org/
+
+https://en.islcollective.com/english-esl-worksheets/search/diagnostic+test
+
+Online games:
+1. https://learnenglishkids.britishcouncil.org/fun-games/games
+2. [https://www.gamestolearnenglish.com/](https://www.gamestolearnenglish.com/)
+3. [https://www.eslgamesplus.com/](https://www.eslgamesplus.com/)
+4. [https://www.englishclub.com/esl-games/](https://www.englishclub.com/esl-games/)
+
+https://atozteacherstuff.com/custom-worksheet-makers/
+
+https://web.archive.org/web/20230209130008/https://blog.futurefocusedlearning.net/25-great-education-tools

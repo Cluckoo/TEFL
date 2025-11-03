@@ -1,0 +1,3 @@
+Online, you can do synchronous (live) or asynchronous learning (own time). While synchronous learning has real-time interaction, asynchronous allows for my flexibility for the students to work through material at their own time.
+
+Learning programs can blend both styles into blended learning, delivering a mix of real-time and do-at-your-own-pace activities. A specific style of this is "flipped" learning, where students encounter new material out of class, and then use class time for interactive activities like discussions!

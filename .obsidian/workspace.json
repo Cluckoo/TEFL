@@ -4,40 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "bd0e0a2b319f9901",
+        "id": "6825e2702ba4bad5",
         "type": "tabs",
         "children": [
           {
-            "id": "37f34096ecbffa36",
+            "id": "f996664dd19d5a05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reasons why students misbehave.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reasons why students misbehave"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "8e86df986f4a27ac",
+            "id": "614c7568a4bac7d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reasons why students misbehave.md",
+                "file": "Needs analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +38,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reasons why students misbehave"
+              "title": "Needs analysis"
             }
           },
           {
-            "id": "b53d9560bd92905d",
+            "id": "9a89205b92f5c25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classroom contract.md",
+                "file": "Placement tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +62,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classroom contract"
+              "title": "Placement tests"
             }
           },
           {
-            "id": "b10605b9e02dc1c7",
+            "id": "f684a33ab6912210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Establishing a routine.md",
+                "file": "Needs analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Establishing a routine"
+              "title": "Needs analysis"
             }
           },
           {
-            "id": "a7b6f3f6a8cd25ad",
+            "id": "9fd22f3423c29352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reasons why students misbehave.md",
+                "file": "Types of tests for students.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +110,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reasons why students misbehave"
+              "title": "Types of tests for students"
+            }
+          },
+          {
+            "id": "314e1a32b5a5a8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teaching for exams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Teaching for exams"
+            }
+          },
+          {
+            "id": "bfdd090acfe7d644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning for a course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planning for a course"
+            }
+          },
+          {
+            "id": "ac4c22cc5b37e1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning for a course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planning for a course"
+            }
+          },
+          {
+            "id": "7701934ae2fdae3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Needs analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Needs analysis"
+            }
+          },
+          {
+            "id": "30cda63cec3146cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flipped learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Flipped learning"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,7 +266,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interaction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,6 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flipped learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Flipped learning"
             }
           },
           {
@@ -247,22 +354,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning a reading lesson.md",
+                "file": "Permanent notes/Managing timings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planning a reading lesson"
+              "title": "Outline of Managing timings"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,53 +380,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7b6f3f6a8cd25ad",
+  "active": "30cda63cec3146cc",
   "lastOpenFiles": [
-    "Establishing a routine.md",
-    "Reasons why students misbehave.md",
-    "Teaching aids.md",
-    "Classroom contract.md",
-    "Flashcards.md",
-    "General rules for classroom management.md",
-    "Permanent notes/Classroom interaction patterns.md",
-    "Permanent notes/Why teach writing.md",
-    "Permanent notes/Types of listening.md",
-    "Permanent notes/Total Physical Response.md",
-    "Permanent notes/Top-down vs bottom-up processing.md",
-    "Permanent notes/Digraphs and strings.md",
-    "Permanent notes/Designing comprehension questions.md",
-    "Permanent notes/Correction code.md",
-    "Permanent notes/Content and Language Integrated Learning (CLIL).md",
-    "Permanent notes/Conditionals.md",
-    "Permanent notes/Community Language Learning.md",
-    "Permanent notes/Communicative Language Teaching.md",
-    "Permanent notes/Cohesive devices.md",
-    "Permanent notes/Behaviourism and Innatism.md",
-    "Permanent notes/Audiolingualism.md",
-    "Permanent notes/Approaches to teaching English.md",
-    "Permanent notes/Alternative grammar lessons to PPP.md",
-    "Permanent notes/Adapting coursebook material.md",
+    "Needs analysis.md",
+    "Flipped learning.md",
+    "Planning for a course.md",
+    "Images/SOW Template-April 2020.pdf",
+    "Misc/Useful resources.md",
+    "Using online resources.md",
+    "Lesson differentiation.md",
+    "SOW Template-April 2020.md",
+    "Teaching for exams.md",
+    "Types of tests for students.md",
+    "Placement tests.md",
+    "Teaching large classes.md",
+    "Coursebooks.md",
+    "Permanent notes/Virtual classrooms.md",
+    "Permanent notes/Using electronic devices and online tools.md",
+    "Permanent notes/Teaching aids.md",
+    "Permanent notes/Story time.md",
+    "Permanent notes/Reasons why students misbehave.md",
+    "Permanent notes/Pictures and realia.md",
+    "Permanent notes/General rules for classroom management.md",
+    "Permanent notes/Flashcards.md",
+    "Permanent notes/Feely bags and sticky balls.md",
+    "Permanent notes/Evaluating the appropriateness and safety of group activities.md",
+    "Permanent notes/Establishing a routine.md",
+    "Permanent notes/Creating teaching activities using authentic media sources.md",
+    "Permanent notes/Copyright.md",
+    "Permanent notes/Classroom contract.md",
+    "Oral Approach",
+    "Images/Task_based_learning_ws1&2.pdf",
+    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Images/TEFL02_L5_U7_Warmer activity_.pdf",
+    "Images/Comparatives Lesson Plan - July 2024.pdf",
+    "Comparatives Lesson Plan - July 2024 1.pdf",
     "Images/Unit 7 Description of a PPP lesson-April 2020.doc.pdf",
     "Images/Unit 5- Full Reading Lesson Plan-July2020.pdf",
-    "Images/Task_based_learning_ws1&2.pdf",
-    "Images/TEFL02_L5_U7_Warmer activity_.pdf",
-    "Images/Pasted image 20251002170512.png",
-    "Images/Comparatives Lesson Plan - July 2024.pdf",
-    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
-    "Permanent notes/Pair and group work.md",
-    "Reading lesson example.md",
-    "Images/Sample Plan Stage 1-April 2020.pdf",
-    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
-    "Unit 5- Full Reading Lesson Plan-July2020.pdf",
-    "MOCs",
-    "Images/Pasted image 20250906162422.png",
     "Images/Pasted image 20250904135802.png",
+    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
+    "Images/Pasted image 20251002170512.png",
+    "Pasted image 20250917171836.png",
+    "Images/Pasted image 20250906162422.png",
     "Images/Pasted image 20250823155726.png",
     "Images/Pasted image 20250823155056.png",
     "Images/Pasted image 20250823154321.png",
     "Images/Pasted image 20250822162021.png",
-    "Images/Pasted image 20250818141422.png",
-    "Images/Pasted image 20250816140703.png",
-    "Images/Pasted image 20250815152005.png"
+    "Pasted image 20250822161930.png",
+    "Images/Pasted image 20250818141422.png"
   ]
 }
