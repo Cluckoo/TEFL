@@ -4,218 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6825e2702ba4bad5",
+        "id": "c8fef79c9e55b69f",
         "type": "tabs",
         "children": [
           {
-            "id": "f996664dd19d5a05",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "614c7568a4bac7d1",
+            "id": "3e47cb236d4566c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Needs analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Needs analysis"
-            }
-          },
-          {
-            "id": "9a89205b92f5c25d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Placement tests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Placement tests"
-            }
-          },
-          {
-            "id": "f684a33ab6912210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Needs analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Needs analysis"
-            }
-          },
-          {
-            "id": "9fd22f3423c29352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of tests for students.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Types of tests for students"
-            }
-          },
-          {
-            "id": "314e1a32b5a5a8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching for exams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teaching for exams"
-            }
-          },
-          {
-            "id": "bfdd090acfe7d644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning for a course.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning for a course"
-            }
-          },
-          {
-            "id": "ac4c22cc5b37e1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning for a course.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning for a course"
-            }
-          },
-          {
-            "id": "7701934ae2fdae3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Needs analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Needs analysis"
-            }
-          },
-          {
-            "id": "30cda63cec3146cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flipped learning.md",
+                "file": "Permanent notes/Flipped learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,9 +30,105 @@
               "icon": "lucide-file",
               "title": "Flipped learning"
             }
+          },
+          {
+            "id": "bc62699e9b6e9dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Planning for a course.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planning for a course"
+            }
+          },
+          {
+            "id": "f6069d0e85e3103e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Images/Templates/5_simple_TTT_(TestTeachTest)_lessons.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5_simple_TTT_(TestTeachTest)_lessons"
+            }
+          },
+          {
+            "id": "70efe4c8543aad36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Images/Templates/Comparatives Lesson Plan - July 2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Comparatives Lesson Plan - July 2024"
+            }
+          },
+          {
+            "id": "f10de4123be27a5c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Images/Templates/Comparatives Lesson Plan - July 2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Comparatives Lesson Plan - July 2024"
+            }
+          },
+          {
+            "id": "6f151975488fd853",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Images/Templates/Sample Plan Stage 1-April 2020.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Sample Plan Stage 1-April 2020"
+            }
+          },
+          {
+            "id": "1f68ab55a23ac577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent notes/Vocabulary pre-teaching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary pre-teaching"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -266,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vocabulary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,11 +181,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "ce63df4b28f7198d",
@@ -307,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flipped learning.md",
+                "file": "Permanent notes/Vocabulary pre-teaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flipped learning"
+              "title": "Backlinks for Vocabulary pre-teaching"
             }
           },
           {
@@ -380,45 +275,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30cda63cec3146cc",
+  "active": "1f68ab55a23ac577",
   "lastOpenFiles": [
-    "Needs analysis.md",
-    "Flipped learning.md",
-    "Planning for a course.md",
-    "Images/SOW Template-April 2020.pdf",
-    "Misc/Useful resources.md",
-    "Using online resources.md",
-    "Lesson differentiation.md",
-    "SOW Template-April 2020.md",
-    "Teaching for exams.md",
-    "Types of tests for students.md",
-    "Placement tests.md",
-    "Teaching large classes.md",
-    "Coursebooks.md",
-    "Permanent notes/Virtual classrooms.md",
-    "Permanent notes/Using electronic devices and online tools.md",
-    "Permanent notes/Teaching aids.md",
-    "Permanent notes/Story time.md",
-    "Permanent notes/Reasons why students misbehave.md",
-    "Permanent notes/Pictures and realia.md",
-    "Permanent notes/General rules for classroom management.md",
-    "Permanent notes/Flashcards.md",
-    "Permanent notes/Feely bags and sticky balls.md",
-    "Permanent notes/Evaluating the appropriateness and safety of group activities.md",
-    "Permanent notes/Establishing a routine.md",
-    "Permanent notes/Creating teaching activities using authentic media sources.md",
-    "Permanent notes/Copyright.md",
-    "Permanent notes/Classroom contract.md",
-    "Oral Approach",
-    "Images/Task_based_learning_ws1&2.pdf",
-    "Images/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Permanent notes/Vocabulary classes.md",
+    "Permanent notes/Teaching vocabulary at higher levels.md",
+    "Permanent notes/Teaching for exams.md",
+    "Permanent notes/Recording new vocabulary.md",
+    "MOCs/MOC Teaching.md",
+    "Permanent notes/Managing timings.md",
+    "Permanent notes/Bilingual vs monolingual dictionaries.md",
+    "Permanent notes/Alternatives to translation for new vocab.md",
+    "Permanent notes/Concept-checking questions.md",
+    "Misc/FLEETING NOTE.md",
+    "Images/Templates/Unit 10 completed scheme of work (1)- April 2020.pdf",
+    "Images/Templates/Unit 7 Description of a PPP lesson-April 2020.doc.pdf",
+    "Images/Templates/Unit 5- Full Reading Lesson Plan-July2020.pdf",
     "Images/TEFL02_L5_U7_Warmer activity_.pdf",
-    "Images/Comparatives Lesson Plan - July 2024.pdf",
-    "Comparatives Lesson Plan - July 2024 1.pdf",
-    "Images/Unit 7 Description of a PPP lesson-April 2020.doc.pdf",
-    "Images/Unit 5- Full Reading Lesson Plan-July2020.pdf",
+    "Images/Templates/SOW Template-April 2020.pdf",
+    "Images/Templates/Sample Plan Stage 1-April 2020.pdf",
+    "Images/Templates/Comparatives Lesson Plan - July 2024.pdf",
+    "Images/Pasted image 20250805152113.png",
+    "Images/Templates/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Permanent notes/Coursebooks.md",
+    "Images/Templates",
+    "Permanent notes/Using AI.md",
+    "Permanent notes/Using online resources.md",
+    "Permanent notes/Types of tests for students.md",
+    "Permanent notes/Teaching large classes.md",
+    "Permanent notes/Synchronous vs asynchronous learning.md",
+    "Permanent notes/Planning for a course.md",
+    "Permanent notes/Placement tests.md",
+    "Permanent notes/Needs analysis.md",
+    "Permanent notes/Lesson differentiation.md",
+    "Permanent notes/Flipped learning.md",
+    "Permanent notes/Evaluating a coursebook.md",
+    "Permanent notes/Creating a scheme of work.md",
+    "scheme of work.md",
+    "Permanent notes/Authentic materials.md",
+    "Permanent notes/Flashcards.md",
+    "U10 very improvable",
     "Images/Pasted image 20250904135802.png",
-    "Images/TEFL02_L3_U2_Lesson plan template_PDF.pdf",
     "Images/Pasted image 20251002170512.png",
     "Pasted image 20250917171836.png",
     "Images/Pasted image 20250906162422.png",
@@ -426,7 +322,6 @@
     "Images/Pasted image 20250823155056.png",
     "Images/Pasted image 20250823154321.png",
     "Images/Pasted image 20250822162021.png",
-    "Pasted image 20250822161930.png",
-    "Images/Pasted image 20250818141422.png"
+    "Pasted image 20250822161930.png"
   ]
 }

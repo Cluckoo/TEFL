@@ -1,3 +1,4 @@
+#U10
 If you find that the class has students with a mix of abilities, it is NOT a good idea to pitch the level right in the middle.
 
 Instead, be mindful of which students you pair or group together. Mix up:
@@ -10,7 +11,6 @@ However, doing no.2 allows you to create tasks that can be adapted to be differe
 1. For low level students the teacher could ask them to draw a rectangle, this could represent a bedroom. Then ask the students to draw a window and a door where they want in the wall.
 2. For lower-level students ask them to draw a bed, a desk, a wardrobe, a tv, a chair. For higher level students, add more elements to the room. 
 3. Once students have done this, put them in pairs. They take turns to dictate their drawings to their partners. They then compare their work.
-
 
 #### General tips for tasks
 - If you know students will finish at different times, plan for extra activities for faster students

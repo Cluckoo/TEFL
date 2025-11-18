@@ -1,3 +1,4 @@
+#U10
 You should choose a course book AFTER conducting a [[Needs analysis]]. You can "preview" a coursebook by finding the contents page called the "scope and sequence" online. You can then decide what to add/take away to adapt it to your students
 
 ##### Advantages v disadvantages for the teacher

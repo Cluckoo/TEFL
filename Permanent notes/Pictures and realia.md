@@ -9,7 +9,6 @@ Examples of useful realia:
 - family photos
 - classroom objects such as staplers and scissors
 
-
 ##### Choosing 
 
 **Step 1:**  Choose a real-world situation.

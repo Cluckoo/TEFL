@@ -1,6 +1,7 @@
-Student may learn English for various reasons including for work, study, and or because it is a useful skill. However, in schools they likely need to pass an exam, such as ESOL exams (Cambridge, Trinity, IELTs).
+#U10
+Students may learn English for various reasons including for work, study, and or because it is a useful skill. However, in schools they likely need to pass an exam, such as ESOL exams (Cambridge, Trinity, IELTs).
 
-As a teacher, you must create a .... based on the syllabus provided by the school or coursebook used. You should:
+As a teacher, you must create a [[SOW Template-April 2020.pdf|scheme of work]] based on the syllabus provided by the school or coursebook used. You should:
 1. Familiarise yourself with the examination specifications
 2. Explain and teach the exam requirements to the students
 3. Keep student morale high with clear, manageable stepping stones in progress
