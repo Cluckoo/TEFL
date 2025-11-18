@@ -4,131 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8fef79c9e55b69f",
+        "id": "695b0d2af0680fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "3e47cb236d4566c4",
+            "id": "ce7280ac61c5a0ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Flipped learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flipped learning"
-            }
-          },
-          {
-            "id": "bc62699e9b6e9dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Planning for a course.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Planning for a course"
-            }
-          },
-          {
-            "id": "f6069d0e85e3103e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Templates/5_simple_TTT_(TestTeachTest)_lessons.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5_simple_TTT_(TestTeachTest)_lessons"
-            }
-          },
-          {
-            "id": "70efe4c8543aad36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Templates/Comparatives Lesson Plan - July 2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Comparatives Lesson Plan - July 2024"
-            }
-          },
-          {
-            "id": "f10de4123be27a5c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Templates/Comparatives Lesson Plan - July 2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Comparatives Lesson Plan - July 2024"
-            }
-          },
-          {
-            "id": "6f151975488fd853",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Templates/Sample Plan Stage 1-April 2020.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Sample Plan Stage 1-April 2020"
-            }
-          },
-          {
-            "id": "1f68ab55a23ac577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Vocabulary pre-teaching.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulary pre-teaching"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent notes/Vocabulary pre-teaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vocabulary pre-teaching"
+              "title": "Backlinks"
             }
           },
           {
@@ -275,8 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f68ab55a23ac577",
+  "active": "ce7280ac61c5a0ac",
   "lastOpenFiles": [
+    "Permanent notes/Vocabulary pre-teaching.md",
+    "Images/Templates/Sample Plan Stage 1-April 2020.pdf",
+    "Images/Templates/Comparatives Lesson Plan - July 2024.pdf",
+    "Images/Templates/5_simple_TTT_(TestTeachTest)_lessons.pdf",
+    "Permanent notes/Planning for a course.md",
+    "Permanent notes/Flipped learning.md",
     "Permanent notes/Vocabulary classes.md",
     "Permanent notes/Teaching vocabulary at higher levels.md",
     "Permanent notes/Teaching for exams.md",
@@ -292,10 +186,7 @@
     "Images/Templates/Unit 5- Full Reading Lesson Plan-July2020.pdf",
     "Images/TEFL02_L5_U7_Warmer activity_.pdf",
     "Images/Templates/SOW Template-April 2020.pdf",
-    "Images/Templates/Sample Plan Stage 1-April 2020.pdf",
-    "Images/Templates/Comparatives Lesson Plan - July 2024.pdf",
     "Images/Pasted image 20250805152113.png",
-    "Images/Templates/5_simple_TTT_(TestTeachTest)_lessons.pdf",
     "Permanent notes/Coursebooks.md",
     "Images/Templates",
     "Permanent notes/Using AI.md",
@@ -303,16 +194,12 @@
     "Permanent notes/Types of tests for students.md",
     "Permanent notes/Teaching large classes.md",
     "Permanent notes/Synchronous vs asynchronous learning.md",
-    "Permanent notes/Planning for a course.md",
     "Permanent notes/Placement tests.md",
     "Permanent notes/Needs analysis.md",
     "Permanent notes/Lesson differentiation.md",
-    "Permanent notes/Flipped learning.md",
     "Permanent notes/Evaluating a coursebook.md",
     "Permanent notes/Creating a scheme of work.md",
     "scheme of work.md",
-    "Permanent notes/Authentic materials.md",
-    "Permanent notes/Flashcards.md",
     "U10 very improvable",
     "Images/Pasted image 20250904135802.png",
     "Images/Pasted image 20251002170512.png",
